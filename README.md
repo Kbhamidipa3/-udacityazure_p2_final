@@ -281,4 +281,16 @@ The Active Status and the REST Endpoints are also seen:
 
 # Documentation
 
-In addition to this ReadMe documentation, the screencast of the full procedure from the Deploying part can be found at the following link:
+In addition to this ReadMe documentation, the screencast of the full procedure is available at the following links. Due to the amount of material that needed to be covered, I made two videos - the first one to showcase the "Model Endpoint Method" and the second one is the "Pipeline Endpoint Method".
+
+https://youtu.be/uPgvYZ1CyBQ
+https://youtu.be/Q7ax-yDdoYE
+
+# Model Improvements
+
+As part of future work:
+1. Other models can be tested and deployed in order to benchmark them and see if they can run more efficiently.
+2. Can explore aspects pertaining to Continuous Integration and Delivery (CI/CD)
+3. Pipeline Endpoint could be fully automated from beginning to end and tested.
+4. More testing can be done on consuming a webservice.
+5. Explore other features of Pipeline Endpoint.
