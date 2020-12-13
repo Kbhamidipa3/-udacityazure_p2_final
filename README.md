@@ -196,7 +196,7 @@ The other important metrics are &quot;Requests per second&quot; and &quot;Time p
 
 ![GitHub Logo](https://github.com/Kbhamidipa3/-udacityazure_p2_final/blob/main/images/AML31.jpg)
 
-Finally endpoint.py file is run succesfully with two input datasets in the terminal and the prediction is made as shown in the image below:
+Finally endpoint.py file is run succesfully with two input datasets in the terminal and the predictions are made as shown in the image below:
 
 ![GitHub Logo](https://github.com/Kbhamidipa3/-udacityazure_p2_final/blob/main/images/AML47.JPG)
 
